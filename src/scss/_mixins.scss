@@ -1,0 +1,14 @@
+@mixin topo() {
+  font-size: $titulo;
+  color: $fonte;
+  font-family: 'Bebas Neue', cursive;
+}
+@mixin label() {
+  font-size: $titulo;
+  color: $preto;
+  font-family: 'Bebas Neue', cursive;
+}
+@mixin input() {
+  padding: 20px;
+  font-size: 20px;
+}

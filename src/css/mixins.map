@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "mixins.css",
+	"sources": [
+		"../scss/mixins.scss"
+	],
+	"sourcesContent": [
+		"@mixin topo() {\r\n  font-size: 20px;\r\n  color: $fonte;\r\n}"
+	],
+	"names": [],
+	"mappings": ""
+}

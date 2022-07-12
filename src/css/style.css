@@ -1,0 +1,83 @@
+/* line 1, ../../../../../Documents/findStreet/FindStreet/src/scss/_geral.scss */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 5, ../../../../../Documents/findStreet/FindStreet/src/scss/_geral.scss */
+.principal {
+  max-width: 900px;
+  margin: 0 auto;
+  height: 800px;
+}
+
+/* line 9, ../../../../../Documents/findStreet/FindStreet/src/scss/_geral.scss */
+.principal h1 {
+  text-align: center;
+  font-size: 26px;
+  color: #000;
+  font-family: 'Bebas Neue', cursive;
+  margin-bottom: 5px;
+}
+
+/* line 16, ../../../../../Documents/findStreet/FindStreet/src/scss/_geral.scss */
+.principal form {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* line 23, ../../../../../Documents/findStreet/FindStreet/src/scss/_geral.scss */
+.principal form input {
+  padding: 20px;
+  font-size: 20px;
+  width: 500px;
+  border: 2px solid grey;
+  cursor: pointer;
+}
+
+/* line 29, ../../../../../Documents/findStreet/FindStreet/src/scss/_geral.scss */
+.principal form p {
+  display: none;
+  text-align: right;
+}
+
+/* line 33, ../../../../../Documents/findStreet/FindStreet/src/scss/_geral.scss */
+.principal form .active {
+  display: block;
+  color: red;
+}
+
+/* line 37, ../../../../../Documents/findStreet/FindStreet/src/scss/_geral.scss */
+.principal form .botao {
+  max-width: 200px;
+  padding: 20px;
+  margin-left: 15px;
+  background: white;
+  border: 2px solid grey;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 15px;
+}
+
+/* line 46, ../../../../../Documents/findStreet/FindStreet/src/scss/_geral.scss */
+.principal form .erro {
+  border: 2px solid red;
+}
+
+/* line 1, ../../../../../Documents/findStreet/FindStreet/src/scss/_header.scss */
+header {
+  background: #000;
+  padding: 20px;
+  margin-bottom: 60px;
+}
+
+/* line 6, ../../../../../Documents/findStreet/FindStreet/src/scss/_header.scss */
+header h1 {
+  text-align: center;
+  font-size: 26px;
+  color: #fff;
+  font-family: 'Bebas Neue', cursive;
+}
+
+/*# sourceMappingURL=style.css.map */

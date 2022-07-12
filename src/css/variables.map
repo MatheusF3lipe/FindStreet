@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "variables.css",
+	"sources": [
+		"../scss/variables.scss"
+	],
+	"sourcesContent": [
+		"$preto: #0000;\r\n$fonte: #fff;\r\n$danger: red;"
+	],
+	"names": [],
+	"mappings": ""
+}

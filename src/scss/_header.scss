@@ -1,0 +1,10 @@
+header {
+  background: $preto;
+  // width: 100%;
+  padding: 20px;
+  margin-bottom: 60px;
+  h1 {
+    text-align: center;
+    @include topo();
+  }
+}

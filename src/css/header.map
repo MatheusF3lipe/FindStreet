@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "header.css",
+	"sources": [
+		"../scss/header.scss"
+	],
+	"sourcesContent": [
+		"header {\r\n  h1 {\r\n    \r\n  }\r\n}"
+	],
+	"names": [],
+	"mappings": ""
+}
